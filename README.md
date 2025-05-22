@@ -1,2 +1,2 @@
 # kedai-kopi-kenangan-senja
-Kode untuk website kopi Kenangan Senja
+Kode untuk membuat website kedai kopi kenangan senja
